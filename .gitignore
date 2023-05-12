@@ -1,0 +1,12 @@
+# Ignore everything in repository root 
+*
+
+# Files to not ignore
+!/.gitignore
+!/README.txt
+!/manifest.json  
+!/sm_env.config
+!/sm_env.sh
+!/sm_env_template.config
+!/sm_env.yml
+!/sm.nf
